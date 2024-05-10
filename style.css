@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(20, 129, 129);
+}
+
+table{
+    width: 720px;
+    height: 50px;
+    background-color:black;
+}
+
+td{
+    width: 200px;
+    background-color:#47A992;
+    color: black(0, 0, 255, 0.967);
+    padding: 20px;
+}
+
+img{
+    border-radius: 50%;
+    width: 190px;
+    height: 170px;
+}
+
+h2{
+    background-color: rgb(211, 208, 202);
+}
+
+h3{
+    background-color: #b2beb5;
+}
+
